@@ -1,4 +1,3 @@
-# LeadHER-Foundation-Assessment
 # LeadHER Foundation – Power BI Learning Portfolio
 
 This repository documents my learning journey in **Power BI** through the **LeadHER Foundation Data Analytics Program**.
